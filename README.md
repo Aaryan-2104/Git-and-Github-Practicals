@@ -10,8 +10,11 @@ Objective: In this experiment, we installed Git, created a local Git repository,
 
 Steps:
 Install Git on your local machine.
+
 Create a new local Git repository using the git init command.
+
 Connect the local repository to a remote repository on GitHub.
+
 Set up a GitHub account for remote repository storage.
 
 
@@ -20,7 +23,9 @@ Objective: In this experiment, we focused on branching in Git. A new branch was 
 
 Steps:
 Create a new branch on GitHub using the branch creation feature.
+
 Make changes within the newly created branch.
+
 Merge the changes from the branch into the main branch using the GitHub interface.
 
 
@@ -29,6 +34,9 @@ Objective: The objective of this experiment was to introduce and explore the pul
 
 Steps:
 Create and explore the pull request command on GitHub.
+
 Propose changes using a pull request.
+
 Merge the changes locally using Git commands.
+
 Merge the changes on the remote repository through the GitHub interface.
