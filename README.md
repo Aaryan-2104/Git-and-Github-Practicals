@@ -1,11 +1,11 @@
-Git-File
+**Git-File**
 
 
-Overview
+**Overview**
 
 This repository is dedicated to conducting and documenting various experiments related to Git and Github. Each experiment is designed to test specific hypotheses, gather data, and make informed decisions to improve the project.
 
-Experiment 1: Git Installation and Repository Creation
+**Experiment - 1**: Git Installation and Repository Creation
 Objective: In this experiment, we installed Git, created a local Git repository, and established a connection with a remote repository on GitHub. Additionally, a GitHub account was created to store the remote repository.
 
 Steps:
